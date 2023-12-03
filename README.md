@@ -1,3 +1,5 @@
+# JAMP Modpack
+
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create)
     - [Create: Misc & Things](https://www.curseforge.com/minecraft/mc-mods/create-misc-and-things)
     - [Create: Teleporters!](https://www.curseforge.com/minecraft/mc-mods/create-teleporters)
@@ -115,3 +117,5 @@
 - [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter)
 - [Inventory Essentials](https://www.curseforge.com/minecraft/mc-mods/inventory-essentials)
 - [HourGlass](https://www.curseforge.com/minecraft/mc-mods/hourglass)
+
+#### Made by Ru Kira & Keeper317

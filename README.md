@@ -1,4 +1,4 @@
-# JAMP Modpack
+# JAMP Modpack | 0.0.5
 
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create)
     - [Create: Misc & Things](https://www.curseforge.com/minecraft/mc-mods/create-misc-and-things)
